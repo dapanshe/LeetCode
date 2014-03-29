@@ -1,4 +1,5 @@
 # solve this problem by the Kth element of two sorted arrays 
+# return a float pay attention to (x+y)/2.0 not (x+y)/2
 class Solution:
     # @return a float
     def findMedianSortedArrays(self, A, B):
